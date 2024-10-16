@@ -40,10 +40,37 @@ Before running the application, make sure you have the following installed:
    npm start
 ## Backend (Ballerina)
 1. Navigate to the backend folder:
-  ```bash
-   cd ../backend 
+     ```bash
+     cd ../backend
 2. Install Ballerina dependencies:
-  ```bash
+      ```bash
+      ballerina pull
+3. Run the backend:  
+   ```bash    
+   ballerina run main.bal     
+### Running the Application
+
+- Ensure both the frontend and backend are running.
+- Open your browser and navigate to http://localhost:3000 to access the frontend.
+- Interact with the chat functionality.
+
+## Screenshots
+## Get Started
+![Get Started](ss/Get%20Started.jpeg)
+## Dashboard
+![Dashboard](ss/Dashboard.jpeg)
+## Create New Chat
+![Create New Chat](ss/Create%20New%20Chat.jpeg)
+
+## Video Demo
+[![Watch the video](https://img.youtube.com/vi/R-YPn2O1J-o/0.jpg)](https://youtu.be/R-YPn2O1J-o)
+
+## Contributors
+- Thisara Dasun (Full Stack Developer)
+- Jeewaka Supun (Full Stack Developer)
+- Adithya Bandara (Full Stack Developer)
+
+
 
 
 
