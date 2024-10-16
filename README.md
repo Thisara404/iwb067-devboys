@@ -66,9 +66,10 @@ Before running the application, make sure you have the following installed:
 [![Watch the video](https://img.youtube.com/vi/R-YPn2O1J-o/0.jpg)](https://youtu.be/R-YPn2O1J-o)
 
 ## Contributors
-- Thisara Dasun (Full Stack Developer)
-- Jeewaka Supun (Full Stack Developer)
-- Adithya Bandara (Full Stack Developer)
+- [Thisara Dasun](https://github.com/Thisara404) (Full Stack Developer)
+- [Adithya Bandara](https://github.com/AdhiDevX369) (Full Stack Developer)
+- [Jeewaka Supun](https://github.com/J33WAKASUPUN) (Full Stack Developer)
+
 
 
 
